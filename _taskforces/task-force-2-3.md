@@ -35,6 +35,7 @@ members:
   - Sirisha Tadimalla (University of Sydney)
   - Lucy Kershaw (University of Edinburgh)
   - Jesper Kallehauge (Aarhus University)
+  - Ben Dickie (University of Manchester)
 status:
   - 22/01/2020 Lead confirmed.
   - 31/01/2020 Co-lead confirmed.
